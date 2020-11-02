@@ -157,6 +157,21 @@ ul li:hover {
 	
 }
 
+.processBtn{
+
+	margin-top: 20px;
+	margin-left: 350px;
+}
+
+.processBtn button{
+	background-color: #B30838;
+	color:#FFFFFF;
+	margin-right:70px;
+	font-size: 20px;
+	width:250px;
+	
+}
+
 .appBtn{
 	margin-top: 50px;
 	margin-bottom: 80px;
@@ -165,12 +180,34 @@ ul li:hover {
 	height:60px;
 	width:320px;
     border: none;
+	border-radius: 6px;
 }
 
 .appBtn:focus{
 	background-color: #B30838;
 	color:#FFFFFF;
 }
+
+.appView{
+	margin: auto;
+	  width: 50%;
+	  padding: 10px;
+
+}
+
+.appView1{
+
+	margin-left: 400px;
+	margin-right:auto;   
+	text-align: left;
+	font-weight: 600;
+}
+
+.appView label{
+	display: inline;
+}
+
+
 
 .form input{
 	width:400px;
