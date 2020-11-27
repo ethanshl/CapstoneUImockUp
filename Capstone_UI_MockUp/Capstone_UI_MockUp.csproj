@@ -124,11 +124,15 @@
     <Content Include="StudentListPage.html" />
     <Content Include="StudentProfile1.html" />
     <Content Include="Styles.css" />
+<<<<<<< HEAD
     <Content Include="ViewAllStudents.html" />
     <Content Include="ViewApplication2.html" />
     <Content Include="ViewApplicationPage.html" />
     <Content Include="ViewCompletedApplicationPage.html" />
     <Content Include="ViewCompletedApplicationPage2.html" />
+=======
+    <Content Include="ViewApplicationPage.html" />
+>>>>>>> 5ce6a84c7f16a4e0241fe04563c3c76241158d4f
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

@@ -53,6 +53,7 @@ C:\Users\jipar\OneDrive\Documents\Capstone_UI_MockUp\Capstone_UI_MockUp\obj\Debu
 C:\Users\jipar\OneDrive\Documents\Capstone_UI_MockUp\Capstone_UI_MockUp\obj\Debug\Capstone_UI_MockUp.csproj.CopyComplete
 C:\Users\jipar\OneDrive\Documents\Capstone_UI_MockUp\Capstone_UI_MockUp\obj\Debug\Capstone_UI_MockUp.dll
 C:\Users\jipar\OneDrive\Documents\Capstone_UI_MockUp\Capstone_UI_MockUp\obj\Debug\Capstone_UI_MockUp.pdb
+<<<<<<< HEAD
 C:\Users\Administrator\Desktop\Capstone 1\Group Project\CapstoneUImockUp\Capstone_UI_MockUp\bin\Capstone_UI_MockUp.dll.config
 C:\Users\Administrator\Desktop\Capstone 1\Group Project\CapstoneUImockUp\Capstone_UI_MockUp\bin\Capstone_UI_MockUp.dll
 C:\Users\Administrator\Desktop\Capstone 1\Group Project\CapstoneUImockUp\Capstone_UI_MockUp\bin\Capstone_UI_MockUp.pdb
@@ -163,6 +164,8 @@ C:\Users\AlexM\OneDrive\Desktop\CapstoneUImockUp\Capstone_UI_MockUp\obj\Debug\Ca
 C:\Users\AlexM\OneDrive\Desktop\CapstoneUImockUp\Capstone_UI_MockUp\obj\Debug\Capstone_UI_MockUp.csproj.CopyComplete
 C:\Users\AlexM\OneDrive\Desktop\CapstoneUImockUp\Capstone_UI_MockUp\obj\Debug\Capstone_UI_MockUp.dll
 C:\Users\AlexM\OneDrive\Desktop\CapstoneUImockUp\Capstone_UI_MockUp\obj\Debug\Capstone_UI_MockUp.pdb
+=======
+>>>>>>> 5ce6a84c7f16a4e0241fe04563c3c76241158d4f
 C:\Users\Administrator\Desktop\CapstoneUImockUp\Capstone_UI_MockUp\bin\Capstone_UI_MockUp.dll.config
 C:\Users\Administrator\Desktop\CapstoneUImockUp\Capstone_UI_MockUp\bin\Capstone_UI_MockUp.dll
 C:\Users\Administrator\Desktop\CapstoneUImockUp\Capstone_UI_MockUp\bin\Capstone_UI_MockUp.pdb
@@ -212,6 +215,10 @@ C:\Users\Administrator\Desktop\CapstoneUImockUp\Capstone_UI_MockUp\bin\roslyn\vb
 C:\Users\Administrator\Desktop\CapstoneUImockUp\Capstone_UI_MockUp\bin\roslyn\vbc.rsp
 C:\Users\Administrator\Desktop\CapstoneUImockUp\Capstone_UI_MockUp\bin\roslyn\VBCSCompiler.exe
 C:\Users\Administrator\Desktop\CapstoneUImockUp\Capstone_UI_MockUp\bin\roslyn\VBCSCompiler.exe.config
+<<<<<<< HEAD
+=======
+C:\Users\Administrator\Desktop\CapstoneUImockUp\Capstone_UI_MockUp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+>>>>>>> 5ce6a84c7f16a4e0241fe04563c3c76241158d4f
 C:\Users\Administrator\Desktop\CapstoneUImockUp\Capstone_UI_MockUp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Administrator\Desktop\CapstoneUImockUp\Capstone_UI_MockUp\obj\Debug\Capstone_UI_MockUp.csprojAssemblyReference.cache
 C:\Users\Administrator\Desktop\CapstoneUImockUp\Capstone_UI_MockUp\obj\Debug\Capstone_UI_MockUp.csproj.CoreCompileInputs.cache
